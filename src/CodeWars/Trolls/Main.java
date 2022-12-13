@@ -1,4 +1,4 @@
-package Trolls;
+package CodeWars.Trolls;
 
 public class Main {
     public static void main(String[] args) {

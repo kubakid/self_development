@@ -1,4 +1,4 @@
-package bankaccount;
+package CodeWars.bankaccount;
 
 public class BankAccount {
     private String bankAccount;

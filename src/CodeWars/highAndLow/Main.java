@@ -1,4 +1,4 @@
-package highAndLow;
+package CodeWars.highAndLow;
 
 public class Main {
     public static String highAndLow(String numbers) {

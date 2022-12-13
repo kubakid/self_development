@@ -1,4 +1,4 @@
-package ArrayDiff;
+package CodeWars.ArrayDiff;
 
 import java.util.Arrays;
 import java.util.List;

@@ -1,4 +1,4 @@
-package sumOfDigits;
+package CodeWars.sumOfDigits;
 
 public class Main {
     public static void main(String[] args) {

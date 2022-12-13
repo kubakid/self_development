@@ -1,4 +1,4 @@
-package centreOfTriangle;
+package CodeWars.centreOfTriangle;
 
 public class Main {
     public static void main(String[] args) {

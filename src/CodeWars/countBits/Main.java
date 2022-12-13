@@ -1,4 +1,4 @@
-package countBits;
+package CodeWars.countBits;
 
 public class Main {
 

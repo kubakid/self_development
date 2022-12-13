@@ -1,4 +1,4 @@
-package splitStringIntoLetters;
+package CodeWars.splitStringIntoLetters;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package squareDigit;
+package CodeWars.squareDigit;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package whoLikesIt;
+package CodeWars.whoLikesIt;
 
 public class Main {
     public static void main(String[] args) {

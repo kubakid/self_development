@@ -1,4 +1,4 @@
-package findOdd;
+package CodeWars.findOdd;
 
 public class Main {
     public static void main(String[] args) {
